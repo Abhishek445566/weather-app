@@ -1,0 +1,17 @@
+body {
+  margin: 15%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(90deg,rgba(50,50,50,0.4),rgba(50,50,50,0.4)),url("./assets/blur-background-1187974.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
